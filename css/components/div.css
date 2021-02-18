@@ -1,0 +1,99 @@
+.logo img{
+  display: block;
+  padding: 15px; 
+  margin: 0 auto;
+  width: 200px; 
+  height: 200px; 
+}
+
+.article {
+  padding: 20px;
+  margin : 15px; 
+  box-shadow: 2px 2px 3px grey; 
+  border-radius: 4px; 
+  font-family: 'Dancing Script', cursive;
+  font-size: 18px; 
+  text-align: right; 
+}
+
+.article h2 {
+  font-family: 'Ranchers', cursive;
+  color: #350b40;
+  padding-top: 5px;
+  text-align: center; 
+}
+
+.article p {
+  font-family: 'Lora', serif;
+  text-align: justify;
+  font-size: 18px; 
+}
+
+.article li{
+  font-family: 'Ranchers', cursive;  
+  font-size: 18px; 
+  padding: 5px; 
+  list-style-type: none; 
+  letter-spacing: 1px;
+  text-align: justify;
+}
+
+#presentation {
+  background-color: #350b40;
+  padding-bottom: 20px; 
+  margin-bottom: 15px; 
+  color: white;
+}
+
+#presentation h2 {
+  color: white;
+}
+
+#presentation p {
+  font-family: font-family: 'Lora', serif;
+}
+
+#materiel {
+  background-color: #ad6c80;
+  padding-bottom: 20px; 
+  margin-bottom: 15px; 
+  color: white;
+  text-align: right;
+}
+
+#realisation {
+  background-color: #ee99a0; 
+  color: white; 
+}
+
+#realisation img { 
+  width: 150px; 
+  height: 150px; 
+  padding: 15px;
+  float: left;
+  border-radius: 10%; 
+ }
+
+#realisation a{
+  color: white;
+}
+
+#realisation a:hover {
+  background-color: #ad6c80
+}
+
+#inspiration {
+  background-color: #94b5c0;
+  color: white;
+  padding: 50px; 
+}
+
+#inspiration img {
+	border-radius: 50%; 
+	width: 80px; 
+	height: 80px; 
+}
+
+#inspiration img:hover { 
+  background-color: grey; 
+}

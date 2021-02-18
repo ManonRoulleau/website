@@ -1,0 +1,31 @@
+.btn-purple {
+	background-color: #ad6c80;
+	padding: 15px 20px;
+	border-radius: 4px; 
+	color: white;
+	font-family:'Ranchers', cursive;
+	text-decoration: none;
+	font-weight: bold; 
+}
+
+
+.btn-blue {
+	background-color: #94b5c0;
+	padding: 15px 20px;
+	border-radius: 4px; 
+	color: white;
+	font-family:'Ranchers', cursive;
+	text-decoration: none;
+	font-weight: bold; 
+	margin: 20px; 
+}
+
+.btn-pink {
+	background-color: #ee99a0;
+	padding: 15px 20px;
+	border-radius: 4px; 
+	color: white;
+	font-family:'Ranchers', cursive;
+	text-decoration: none;
+	font-weight: bold; 
+}
